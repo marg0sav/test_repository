@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bg.png</file>
+        <file>Image/кроссвордд.png</file>
+        <file>Fonts/Roboto-Medium.ttf</file>
+        <file>Fonts/Roboto-MediumItalic.ttf</file>
+        <file>Image/кро.png</file>
+        <file>Image/галочка.png</file>
+        <file>Image/крестик.png</file>
+    </qresource>
+</RCC>
